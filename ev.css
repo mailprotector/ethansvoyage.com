@@ -1,0 +1,75 @@
+A {
+   color: #6699cc;
+   text-decoration: none;
+}
+
+A:Hover {
+   color: #99ccff;
+   text-decoration: underline;
+}
+
+.copy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	line-height: 15px;
+
+}
+
+.bgmainl {
+	background-image: url(images/bg_main_l.gif);
+	background-repeat: repeat-y;
+	background-position: right;
+}
+.bgmainr {
+
+	background-image: url(images/bg_main_r.gif);
+	background-repeat: repeat-y;
+	background-position: left;
+}
+.bgprayer {
+	background-image: url(images/bg_prayer.gif);
+	background-repeat: repeat-y;
+}
+.bgnews {
+	background-image: url(images/bg_news.gif);
+	background-repeat: repeat-y;
+}
+.bgpics {
+	background-image: url(images/bg_pics.gif);
+}
+.bgdate {
+	background-image: url(images/bgdate.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.bgshadow {
+	background-image: url(images/bg_shadow.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.prayerhead{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFCCOO;
+}
+.newshead{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #669A40;
+}
+.prayernum {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFCC00;
+}
+.picshead {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #B36727;
+}
